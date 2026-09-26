@@ -117,14 +117,14 @@ Hosted on **Vercel** as two projects from this one repository, with **MongoDB At
 
 ## Live URL
 
-- Frontend: _add Vercel URL here after deploying_
-- Backend API: _add Vercel URL here after deploying_
+- Frontend: https://issue-tracking-system-3o6k-2ev8doqa3-revathi11.vercel.app
+- Backend API: https://issue-tracking-system-rlmgu9raz-revathi11.vercel.app
 
 ### Test accounts (created by `npm run seed`)
 
 | Role | Email | Password |
 | --- | --- | --- |
-| Admin | admin@example.com | Admin@123 |
-| User | user@example.com | User@123 |
+| Admin | admin@tracker.com | Admin@123 |
+| User | user@tracker.com | User@123 |
 
 These are demo-only accounts, not personal ones.
